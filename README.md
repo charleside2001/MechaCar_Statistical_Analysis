@@ -1,3 +1,4 @@
+ ![cars.png](https://github.com/charleside2001/MechaCar_Statistical_Analysis/blob/main/images/cars.png) 
 # Overview of MechaCar Statistical Analysis
 This objective of this project is to assist AutosRUs’ upper management in reviewing production data to provide insights that may help the manufacturing team.
 The following analysis were performed
